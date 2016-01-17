@@ -1,0 +1,20 @@
+{
+	"appName": {
+		"message"		: "Strava in Celsius"
+	},
+	"appDescription": {
+		"message"		: "Alterações strava temperaturas de Fahrenheit para Celsius , enquanto ainda usando outras unidades imperiais."
+	},
+	"temperature": {
+		"message"		: "Temperatura"
+	},
+	"max": {
+		"message"		: "Máx."
+	},
+	"avg": {
+		"message"		: "Média"
+	},
+	"copyright": {
+		"message"		: "<br>As temperaturas ajustadas de Fahrenheit para Celsius por <a href=\"http://www.philipgarner.co.uk\" target=\"_blank\">PTG</a>"
+	}
+}

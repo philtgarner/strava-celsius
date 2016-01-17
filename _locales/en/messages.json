@@ -1,0 +1,26 @@
+{
+	"appName": {
+		"message"		: "Strava in Celsius",
+		"description"	: "The title of the extension."
+	},
+	"appDescription": {
+		"message"		: "Changes Strava temperatures from Fahrenheit to Celsius while still using other Imperial units.",
+		"description"	: "The extension description"
+	},
+	"temperature": {
+		"message"		: "Temperature",
+		"description"	: "The word temperature"
+	},
+	"max": {
+		"message"		: "Max",
+		"description"	: "The word 'Max'"
+	},
+	"avg": {
+		"message"		: "Avg",
+		"description"	: "The word 'Avg'"
+	},
+	"copyright": {
+		"message"		: "<br>Temperatures adjusted from Fahrenheit to Celsius by <a href=\"http://www.philipgarner.co.uk\" target=\"_blank\">PTG</a>",
+		"description"	: "The notice to append to the copyright notice on Strava"
+	}
+}
